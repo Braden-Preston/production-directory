@@ -1,0 +1,22 @@
+{
+  "name": "production-directory-structure",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4jk8n0p9p0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "test:e2e": "vue-cli-service test:e2e",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vue/cli-service": "4.3.1",
+    "pug": "2.0.4",
+    "pug-plain-loader": "1.0.0",
+    "vue": "latest",
+    "vuetify": "1.5.16"
+  }
+}
